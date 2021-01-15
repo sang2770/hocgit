@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 hello 
 sang dzai
 nguyen van sang dzai
+=======
+hello 
+>>>>>>> parent of 9c7a5fe... sua lan 1
+my năme
